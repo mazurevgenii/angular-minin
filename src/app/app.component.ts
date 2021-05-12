@@ -6,5 +6,11 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angularrr ' + VERSION.major;
+  name = 'Angularrrrr 12' + VERSION.major;
+
+  title = 'ghsdf'
+
+  // onInput(event: any) {
+  //   this.title = event.target.value
+  // }
 }
